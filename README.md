@@ -60,10 +60,14 @@ A consulta foi visualizada no **Metabase** através de um **gráfico de barras h
 
 ---
 
+## 🖥️ Dashboard
+
+![Dashboard](top10_produtos_mais_caros_com_avaliacao_excelente.png)
+
 ## 📌 Principais Insights
 
-- Produtos premium podem manter **avaliações excelentes**, reforçando a importância da **qualidade percebida**.
-- Existe **diversidade de categorias** entre os produtos mais caros.
+- Produtos premium conseguem manter **avaliações excelentes**, reforçando a importância da **qualidade percebida**.
+- Há **diversidade de categorias** entre os produtos de maior valor.
 - O **preço elevado não impactou negativamente** a avaliação dos clientes.
 
 ---
@@ -77,6 +81,6 @@ A consulta foi visualizada no **Metabase** através de um **gráfico de barras h
 ---
 
 ## 👩‍💻 Autor
+> Este projeto faz parte do meu portfólio de estudos em Análise de Dados, com foco em SQL e visualização de dados.
 
-Projeto desenvolvido como parte dos estudos em **Análise de Dados** na **Escola DNC**.
 
